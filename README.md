@@ -1,9 +1,8 @@
 # 🥡Git 菜单
 
  *高质量的 Git 中文教程，源于国外社区的优秀文章和个人实践*
- *本教材fork自[Zhongyi Tong的Github仓库](https://github.com/geeeeeeeeek/git-recipes)，由于作者已经关闭该仓库的维护，我在学习过程中重新整理了该仓库内容，感谢作者的辛勤劳动。*
 
-🥢🥢🥢🥢🥢🥢
+ *本教材fork自[Zhongyi Tong的Github仓库](https://github.com/geeeeeeeeek/git-recipes)，由于作者已经关闭该仓库的维护，我在学习过程中重新整理了该仓库内容，感谢作者的辛勤劳动。*
 
 ### 第1篇 果壳中的 Git
 
@@ -59,12 +58,10 @@
 
   提交是 Git 的精髓所在，你无时不刻不在创建和缓存提交、查看以前的提交，或者用各种 Git 命令在仓库间转移你的提交。在这章中，我们研究提交的各种引用方式，以及涉及到的 Git 命令的工作原理。我们还会学到如何使用 Git 的引用日志查看看似已经删除的提交。
 
-🥢🥢🥢🥢🥢🥢
-
 ### 版权说明
 
 - ✍️ [P2Tree (P2Tree@github)](https://github.com/P2Tree)
-本文部分章节内容源自：[童仲毅 (geeeeeeeeek@github)](https://github.com/geeeeeeeeek)
+- 本文部分章节内容源自：[童仲毅 (geeeeeeeeek@github)](https://github.com/geeeeeeeeek)
 - 除非另行注明，这个项目中的所有内容采用知识共享-署名（[CC BY 2.5 AU](http://creativecommons.org/licenses/by/2.5/au/deed.zh)）协议共享。
 - 不少文章在原基础上翻译或演绎而来，页面上方标注了原作者、原文链接以及原文采用的协议。如有版权疑问，请在 Issue 中提出。
 - 欢迎通过 Issue 或者 Pull Request 推荐你认为合适的资料，让这份菜单更充实一些。
