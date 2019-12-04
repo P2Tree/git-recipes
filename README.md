@@ -1,8 +1,10 @@
 # 🥡Git 菜单
 
- *高质量的 Git 中文教程，源于国外社区的优秀文章和个人实践*
+> **Git菜单**是一套高质量的 Git 中文教程，源于国外社区的优秀文章和个人实践
 
- *本教材fork自[Zhongyi Tong的Github仓库](https://github.com/geeeeeeeeek/git-recipes)，由于作者已经关闭该仓库的维护，我在学习过程中重新整理了该仓库内容，感谢作者的辛勤劳动。*
+> 本教程全部内容可参见[https://github.com/P2Tree/git-recipes](https://github.com/P2Tree/git-recipes)，我基于[Zhongyi Tong的工作](https://github.com/geeeeeeeeek/git-recipes)进行了重新整理和内容新增，由于作者已经关闭该项目，故重新建库。再次感谢原作者的辛勤劳动。
+
+> **最新更新：已完成第1篇第1章：什么是版本控制。2019年12月4日**
 
 **最新更新：已完成第1篇第1章：什么是版本控制。2019年12月4日**
 
