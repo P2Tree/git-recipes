@@ -4,15 +4,14 @@
 
 > 本教程全部内容可参见[https://github.com/P2Tree/git-recipes](https://github.com/P2Tree/git-recipes)，我基于[Zhongyi Tong的工作](https://github.com/geeeeeeeeek/git-recipes)进行了重新整理和内容新增，由于作者已经关闭该项目，故重新建库。再次感谢原作者的辛勤劳动。
 
-> **最新更新：已完成第1篇第1章：什么是版本控制。2019年12月4日**
-
-**最新更新：已完成第1篇第1章：什么是版本控制。2019年12月4日**
+> **最新更新：已完成第1篇第2章：源代码管理。2019年12月10日**
 
 ### 第1篇 果壳中的 Git
 
 本篇介绍了一些Git的特点，以及与集中式版本管理系统的优缺点，阐述了什么是版本管理，什么是Git，为什么要用Git。
 
 - **第1章** [什么是版本控制](https://github.com/P2Tree/git-recipes/blob/master/sources/1.1-什么是版本控制.md)
+- **第2章** [源代码管理]([https://github.com/P2Tree/git-recipes/blob/master/sources/1.2-%E6%BA%90%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86.md](https://github.com/P2Tree/git-recipes/blob/master/sources/1.2-源代码管理.md))
 - **第3章** [什么是 Git](https://github.com/P2Tree/git-recipes/blob/master/sources/1.3-什么是Git.md)
 
 ### 第2篇 从零搭建本地代码仓库
