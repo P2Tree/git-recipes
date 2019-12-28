@@ -14,7 +14,7 @@
 - **第2章** [源代码管理](https://github.com/P2Tree/git-recipes/blob/master/sources/1.2-源代码管理.md)
 - **第3章** [什么是 Git](https://github.com/P2Tree/git-recipes/blob/master/sources/1.3-什么是Git.md)
 - **第4章** [为什么Git适合你的组织](https://github.com/P2Tree/git-recipes/blob/master/sources/1.4-为什么Git适合你的组织.md)
-- **第5章** [什么是SSH KEY](https://github.com/P2Tree/git-recipes/blob/master/sources/1.5-什么是SSH KEY.md)
+- **第5章** [什么是SSH KEY](https://github.com/P2Tree/git-recipes/blob/master/sources/1.5-什么是SSH%20KEY.md)
 
 ### 第2篇 从零搭建本地代码仓库
 
